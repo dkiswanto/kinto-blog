@@ -21,8 +21,8 @@ Meskipun dalam hal pengembanganya dilakukan secara sukarela, tapi banyak sekali 
 hal tersebut bisa terjadi adalah karena dalam aturan opensource siapa saja dapat ikut menjadi pengembang perangkat lunak tersebut.   
 
 
-Sebenernya masih ada ribuan alasan lainya, cuman karena keterbatasan waktu, saya hanya dapat menulis 3 hal diatas saja, mungkin nanti ketika waktu luang saya 
-akan menambahkan alasan lainya :)
+Sebenernya masih ada ribuan alasan lainya, cuman karena keterbatasan waktu, saya hanya dapat menulis 3 hal diatas saja. Mungkin, nanti ketika ada waktu luang saya 
+akan menambahkan alasan dan kelebihan lainya :)
 
 
 #### Notes : 
