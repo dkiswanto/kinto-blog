@@ -5,16 +5,55 @@
     <description></description>
     <link>https://kinto-d.github.io/kinto-blog/</link>
     <atom:link href="https://kinto-d.github.io/kinto-blog/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 28 Oct 2016 20:22:21 +0700</pubDate>
-    <lastBuildDate>Fri, 28 Oct 2016 20:22:21 +0700</lastBuildDate>
+    <pubDate>Wed, 09 Nov 2016 22:09:29 +0700</pubDate>
+    <lastBuildDate>Wed, 09 Nov 2016 22:09:29 +0700</lastBuildDate>
     <generator>Jekyll v3.2.1</generator>
+    
+      <item>
+        <title>Pentingnya lisensi pada Perangkat Lunak Terbuka.</title>
+        <description>&lt;p&gt;Pada saat pertama kali saya berkecimpung di dunia software development, 
+saya sering sekali menggunakan tools/library perangkat lunak terbuka (opensource) sebagai pendukung pengembangan project saya.
+tentu saja penggunaan perangkat pendukung tersebut dilakukan tanpa membaca lisensi pada perangkat lunak yang saya pakai,
+bahkan sebenarnya saya tidak mengetahui dengan benar apa tujuan dari lisensi-lisensi tersebut (dalam benak saya mungkin cuman masalah kepemilikan).&lt;/p&gt;
+
+&lt;p&gt;Sampai pada suatu saat, saya dipertemukan dengan kondisi dimana saya harus melakukan kontribusi pada suatu repository perangkat lunak terbuka
+dengan memperhatikan lisensi dari perangkat lunak tersebut. 
+Untuk awalnya saya iseng untuk searching perbedaan perbedaan antara setiap lisensi terbuka tersebut, mulai dari MIT, Apache, BSD, GPL dan lainya, 
+dan ternyata saya cukup bingung untuk memahaminya haha.. , hal yang paling saya bingungkan adalah hampir tidak ada perbedaan antara lisensi-lisensi tersebut 
+yang kebanyakan berisi tentang hak untuk memakai, memodifikasi, dan mendistribusikan untuk perangkat lunak tersebut. (Sebenernya intinya memang itu)&lt;/p&gt;
+
+&lt;p&gt;Setelah memahami sedikit tentang masalah lisensi tersebut, 
+saya mulai mencari beberapa repository perangkat lunak terbuka yang sekiranya bisa saya berikan kontribusi,
+ditengah pencarian tersebut kebetulan saya menemukan suatu repository yang ternyata lumayan keren (lumayan tertarik untuk menggunakanya), 
+tetapi saya tidak melihat adanya lisensi pada repository tersebut, disini saya agak bingung misalkan ketika saya mau pakai perangkat lunak tersebut,
+bagaimana aturan credit/copyright pada perangkat lunak yang akan saya pakai tersebut, 
+(saya tidak terlalu memikirkan izin, karena ketika saya melihat public project di github, saya selalu berpikir bahwa project tersebut bisa digunakan public)&lt;/p&gt;
+
+&lt;p&gt;Disinilah saya melihat pentingnya suatu lisensi pada perangkat lunak terbuka, bukan tentang masalah kepemilikan dan sejenisnya, tapi lisensi disini lebih ke 
+aturan izin untuk pemakaian/pendistribusian perangkat lunak tersebut, 
+dan bisa dibilang apabila suatu perangkat lunak terbuka belum mempunyai lisensi maka perangkat lunak tersebut masih belum bisa dibilang “opensource”, 
+kenapa seperti itu?, karena kembali lagi pada kasus diatas, tidak adanya aturan/statement yang jelas untuk pemakaian/pendistribusian pada perangkat lunak tersebut.&lt;/p&gt;
+
+&lt;p&gt;Mungkin apabila dibanding dengan perangkat lunak komersil yang lisensi-nya lebih ditujukan sebagai kepemilikan, maka untuk perangkat lunak terbuka (opensource)
+lisensi adalah izin dan aturan hak untuk memakai, memodifikasi, dan mendistribusikan perangkat lunak tersebut.&lt;/p&gt;
+</description>
+        <pubDate>Fri, 28 Oct 2016 16:05:30 +0700</pubDate>
+        <link>https://kinto-d.github.io/kinto-blog/jekyll/update/2016/10/28/pentingnya-lisensi-perangkat-lunak-terbuka.html</link>
+        <guid isPermaLink="true">https://kinto-d.github.io/kinto-blog/jekyll/update/2016/10/28/pentingnya-lisensi-perangkat-lunak-terbuka.html</guid>
+        
+        
+        <category>jekyll</category>
+        
+        <category>update</category>
+        
+      </item>
     
       <item>
         <title>Why OpenSource ?</title>
         <description>&lt;h1 id=&quot;apa-itu-open-source&quot;&gt;Apa itu Open Source&lt;/h1&gt;
 &lt;p&gt;Open Source adalah sistem pengembangan perangkat lunak yang dimana dalam hal pengembanganya semua orang dapat untuk mempelajari, mengubah, dan mendistribusikan sumber kode didalamnya.&lt;/p&gt;
 
-&lt;p&gt;terus kenapa saya sangat tertarik pada OpenSource, berikut alasanya :&lt;/p&gt;
+&lt;p&gt;terus kenapa saya sangat tertarik pada OpenSource, berikut beberapa alasanya :&lt;/p&gt;
 
 &lt;h1 id=&quot;its-free&quot;&gt;It’s Free&lt;/h1&gt;
 &lt;p&gt;Salah satu keunggulan utama dalam hal perangkat lunak opensource adalah gratis, yap semua orang dapat memakai perangkat lunak yang telah dibangun oleh komunitas tanpa mengularkan uang sepeser pun.&lt;/p&gt;
@@ -26,11 +65,14 @@
 &lt;p&gt;Meskipun dalam hal pengembanganya dilakukan secara sukarela, tapi banyak sekali project perangkat lunak opensource berkembang dengan sangat cepat.
 hal tersebut bisa terjadi adalah karena dalam aturan opensource siapa saja dapat ikut menjadi pengembang perangkat lunak tersebut.&lt;/p&gt;
 
+&lt;p&gt;Sebenernya masih ada ribuan alasan lainya, cuman karena keterbatasan waktu, saya hanya dapat menulis 3 hal diatas saja. Mungkin, nanti ketika ada waktu luang saya 
+akan menambahkan alasan dan kelebihan lainya :)&lt;/p&gt;
+
 &lt;h4 id=&quot;notes-&quot;&gt;Notes :&lt;/h4&gt;
 &lt;p&gt;Tulisan ini dibuat dalam rangka untuk memenuhi salah satu tugas kompetisi Besut Kode. &lt;br /&gt;
 Besut Kode adalah kompetisi pengembangan perangkat lunak terbuka (opensource) untuk seluruh mahasiswa di Indonesia.&lt;/p&gt;
 
-&lt;p&gt;Harapan saya dalam mengikuti Besut Kode adalah supaya nantinya bisa berkontribusi di pengembangan perangkat lunak terbuka (opensource).&lt;/p&gt;
+&lt;p&gt;Harapan saya dalam mengikuti Besut Kode adalah supaya nantinya saya dapat berkontribusi di pengembangan perangkat lunak terbuka (opensource).&lt;/p&gt;
 
 &lt;blockquote&gt;
   &lt;p&gt;Komunitas OpenSource sudah memberikan saya banyak hal, kenapa saya tidak mencoba untuk berkontribusi pada komunitas tersebut.&lt;/p&gt;
